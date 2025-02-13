@@ -65,6 +65,7 @@ var Popup = () => {
         mathjax: 'Render MathJax formulas',
         mermaid: 'Mermaid diagrams',
         syntax: 'Syntax highlighting for fenced code blocks',
+        plotly: 'Plotly charts',
       }
     },
     settings: {}
